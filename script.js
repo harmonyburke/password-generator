@@ -1,11 +1,10 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 var passwordLength=(7>129);
-var fontCase= ["Uppercase","Lowercase"]
-var numbers=true
-var specialChar=["!","@","#","$","%","^","&","*"]
+var fontCase= ["Uppercase","Lowercase"];
+var numbers=true;
+var specialChar=["!","@","#","$","%","^","&","*"];
 // added variables for the elements of the password
-// var random=Math.floor(Math.random()=(x>7)(x<129));
 // added random to randomize the number the computer pics
 // Write password to the #password input
 function writePassword() {
@@ -37,9 +36,9 @@ function writePassword() {
   }
   // added else if statements for prompts to function correctly
   prompt("Would you like to include any special characters(ex.!@#$%)?");{
-    if (specialChar=(x<8)){
+    if (specialChar=(i<8)){
       prompt("Thanks!");
-    } else if (specialChar=(x>8)){
+    } else if (specialChar=(i>8)){
       prompt("Enter a valid response!");
     }
   }
