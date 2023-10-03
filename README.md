@@ -5,12 +5,15 @@ Josshy Olea
 ## Description
 
 I created this webpage to generate random passwords for users. This webpage will take the information given to it by the user's answers to the prompts and randomly generate a password within the given parameters.
-
+![Alt text](<images\passwordgen1.png>)
+![Alt text](<images\passwordgen2.png>)
+![Alt text](<images\passwordgen3.png>)
+![Alt text](<images\passwordgen4.png>)
 
 
 ## Installation
 
-visit this webpage at
+visit this webpage at [https://harmonyburke.github.io/password-generator/]
 ## Usage
 
 To use the password generator, simply click on the 'generate password' button on the bottom of the screen. Then answer the following prompts regarding password length, the font type(uppercase or lowercase), numbers and special characters. Once all answers are provided, your new password will appear in the box that currently says 'your new password'!
