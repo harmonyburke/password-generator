@@ -1,5 +1,5 @@
 # password-generator
-Josshy Olea
+
 # <Password Generator>
 
 ## Description
